@@ -1,7 +1,4 @@
-# Git Commands
+# Expensify App 
 
-git init - Create a new git repo
-git status - View the changes to your project code
-git add - Add files to staging area
-git commit - Creates a new commit with files from staging area
-git log - View recent commits
+Here is the updated version of the application - with all commits and additional minor fixes in the syntax of the code itself.
+Application uses React&Redux; additionally the whole database is operated via Firebase.
